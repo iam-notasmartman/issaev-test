@@ -21,7 +21,19 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` textr fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}r fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}r fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}r fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 
 [Link](url) and ![Image](src)
 ```
